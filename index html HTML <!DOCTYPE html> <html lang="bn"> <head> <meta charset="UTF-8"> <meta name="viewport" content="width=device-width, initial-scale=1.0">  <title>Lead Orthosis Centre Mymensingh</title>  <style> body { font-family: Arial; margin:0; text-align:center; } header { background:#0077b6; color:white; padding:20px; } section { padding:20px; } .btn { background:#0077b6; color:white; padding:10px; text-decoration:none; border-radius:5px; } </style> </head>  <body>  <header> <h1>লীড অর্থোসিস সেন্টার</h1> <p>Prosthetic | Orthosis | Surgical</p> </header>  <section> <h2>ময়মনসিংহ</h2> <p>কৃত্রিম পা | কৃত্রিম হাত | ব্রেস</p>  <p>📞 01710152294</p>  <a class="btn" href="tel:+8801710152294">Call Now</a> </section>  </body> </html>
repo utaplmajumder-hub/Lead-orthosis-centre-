@@ -1,0 +1,35 @@
+HTML
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Lead Orthosis Centre Mymensingh</title>
+
+<style>
+body { font-family: Arial; margin:0; text-align:center; }
+header { background:#0077b6; color:white; padding:20px; }
+section { padding:20px; }
+.btn { background:#0077b6; color:white; padding:10px; text-decoration:none; border-radius:5px; }
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>লীড অর্থোসিস সেন্টার</h1>
+<p>Prosthetic | Orthosis | Surgical</p>
+</header>
+
+<section>
+<h2>ময়মনসিংহ</h2>
+<p>কৃত্রিম পা | কৃত্রিম হাত | ব্রেস</p>
+
+<p>📞 01710152294</p>
+
+<a class="btn" href="tel:+8801710152294">Call Now</a>
+</section>
+
+</body>
+</html>

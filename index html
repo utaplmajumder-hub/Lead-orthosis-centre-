@@ -1,0 +1,36 @@
+HTML
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Lead Orthosis Centre Mymensingh</title>
+
+  <meta name="description" content="কৃত্রিম পা, হাত, ব্রেস, সাপোর্ট, মেডিকেল সু - Lead Orthosis Centre Mymensingh">
+
+  <style>
+    body{font-family:Arial;margin:0;text-align:center;background:#eef5ff;}
+    header{background:#0077b6;color:white;padding:30px;}
+    .box{padding:20px;}
+    .btn{background:#0077b6;color:white;padding:10px 15px;border-radius:6px;text-decoration:none;}
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Lead Orthosis Centre</h1>
+  <p>কৃত্রিম পা | হাত | ব্রেস | সাপোর্ট | মেডিকেল সু</p>
+</header>
+
+<div class="box">
+  <h2>ময়মনসিংহ</h2>
+  <p>Artificial Limb & Orthosis Service</p>
+  <p>📞 01710152294</p>
+
+  <a class="btn" href="tel:+8801710152294">Call Now</a>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+HTML
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lead Orthosis Centre</title>
+</head>
+
+<body style="text-align:center;font-family:Arial;margin:0;background:#eef5ff;">
+
+  <header style="background:#0077b6;color:white;padding:30px;">
+    <h1>Lead Orthosis Centre</h1>
+    <p>কৃত্রিম পা | হাত | ব্রেস | সাপোর্ট | মেডিকেল সু</p>
+  </header>
+
+  <div style="padding:20px;">
+    <h2>ময়মনসিংহ</h2>
+    <p>Prosthetic & Orthosis Service</p>
+    <p><b>📞 01710152294</b></p>
+
+    <a href="tel:+8801710152294"
+       style="background:#0077b6;color:white;padding:10px 15px;text-decoration:none;border-radius:6px;">
+      Call Now
+    </a>
+  </div>
+
+</body>
+</html>
